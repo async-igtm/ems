@@ -1,0 +1,275 @@
+body nav {
+    background-color: red;
+    margin: 0;
+    overflow: hidden;
+}
+
+body #content {
+    width: 100%;
+    height: 35px;
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 3%;
+}
+
+#logout {
+    border: 1px #fff solid;
+    width: 30px;
+    height: 30px;
+}
+
+#progress,
+#employ6532,
+#mail,
+#logoutd {
+    border: 0px #fff solid;
+    width: 30px;
+    height: 30px;
+}
+
+#progress svg,
+#employ6532 svg,
+#mail svg,
+#logoutd svg {
+    width: 100%;
+    height: 100%;
+}
+
+#department54120 {
+    color: #fff;
+    font-size: 20px;
+}
+
+#profile {
+    color: #fff;
+    border: 1px #fff solid;
+    margin-left: 70%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#cont {
+    /* background-color: red; */
+    border: 0px red solid;
+    width: 100%;
+    height: 620px;
+}
+
+#row-1 {
+    margin-top: 5px;
+    width: 100%;
+    height: 260px;
+    border-bottom: 0px black solid;
+    display: flex;
+    justify-content: left;
+    gap: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+#call {
+    width: 100%;
+    height: 260px;
+    border: 1px black solid;
+}
+
+#approve {
+    width: 100%;
+    height: 260px;
+    border: 1px black solid;
+}
+
+#callapprov {
+    width: 100%;
+    height: 260px;
+    border: 1px black solid;
+}
+
+/* canvas {
+    border: 0px solid rgb(255, 0, 0);
+    width: 100%;
+    height: 100%;
+} */
+
+#activites {
+    width: 100%;
+    height: 300px;
+    border: 0px red solid;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5%;
+}
+
+#id8523 {
+    height: 180px;
+    margin-top: 19px;
+    border: 0px black solid;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+}
+
+.bl535101 {
+    border: 1px black solid;
+    width: 100%;
+    height: 100%;
+}
+
+#ifd4114 {
+    height: 40px;
+    /* border: 1px rgb(255, 0, 0) solid; */
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+
+    /* cursor: pointer; */
+}
+
+#ifd4114 #yd852 {
+
+    font-size: 20px;
+    border: 1px rgb(131, 131, 131) solid;
+    border-radius: 5px;
+    height: 90%;
+    width: 150px;
+    text-align: left;
+    padding-left: 20px;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: center;
+}
+
+/* 321 136 */
+
+#ifd4114 #yd852 #yd8527845 {
+    margin-top: -8px;
+    height: 90%;
+    width: 100%;
+    border: 0px black solid;
+}
+
+
+
+.bl535101 {
+    background-color: rgba(236, 48, 20, 0.9);
+    border: 0px black solid;
+    /* box-shadow: 1px 1px 5px #fff inset; */
+    border-radius: 5px;
+    color: #fff;
+}
+
+#activeEmplyee,
+#total {
+    border: 0px black solid;
+    height: 40%;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: end;
+}
+
+#empCount,
+#empCountAll {
+    height: 90%;
+    width: auto;
+    font-size: 50px;
+    border: 0px black solid;
+}
+
+#achievementYesterday {
+    border: 0px black solid;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: end;
+    height: 30%;
+    padding-left: 30%;
+}
+
+#achievementWeekly {
+    border: 0px black solid;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: end;
+    height: 30%;
+    padding-left: 30%;
+    margin-top: 5px;
+}
+
+#achievementMonthly {
+    border: 0px black solid;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    align-items: end;
+    height: 30%;
+    padding-left: 30%;
+    margin-top: 3px;
+}
+
+#achievementYesterdayCount,
+#achievementWeeklyCount,
+#achievementMonthlyCount {
+    height: 100%;
+    width: auto;
+    font-size: 42px;
+    border: 0px black solid;
+}
+
+#achievementYesterday span,
+#achievementWeekly span,
+#achievementMonthly span {
+    border: 1px transparent solid;
+    width: 160px;
+}
+
+#hghb6323,
+#ujkg816320 {
+    border: 0px black solid;
+    margin-top: 7%;
+    padding-left: 2%;
+}
+
+
+
+#ujkg816320
+{
+    display: flex;
+    justify-content: left;
+    gap: 18%;
+}
+
+
+#hghb6323 span:last-child, #ujkg8163208512 span:last-child, #ujkg8163205210241 span:last-child
+{
+    font-size: 30px;
+    border: 0px black solid;
+}
+
+
+
+
+/* #hghb6323 {
+    margin-top: 8%;
+    border: 1px black solid;
+} */
+
+/* #ujkg816320 {
+    margin-top: 5%;
+    border: 1px black solid;
+}
+
+#ujkg8163205210241 {
+    margin-top: 5%;
+    border: 1px black solid;
+} */
